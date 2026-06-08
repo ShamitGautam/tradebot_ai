@@ -1,0 +1,6 @@
+2024-01-15 14:30:22 - trading_bot - INFO - Initializing Binance client (testnet)
+2024-01-15 14:30:23 - trading_bot - DEBUG - Fetching account information
+2024-01-15 14:30:24 - trading_bot - INFO - Placing MARKET BUY order - Symbol: BTCUSDT, Quantity: 0.01, Price: None
+2024-01-15 14:30:25 - trading_bot - DEBUG - Order parameters: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01}
+2024-01-15 14:30:27 - trading_bot - INFO - Order placed successfully: 123456789
+2024-01-15 14:30:27 - trading_bot - INFO - Order ID: 123456789, Status: FILLED, Executed Qty: 0.01, Avg Price: 42500.50

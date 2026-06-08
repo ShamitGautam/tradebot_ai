@@ -1,0 +1,6 @@
+2024-01-15 14:35:10 - trading_bot - INFO - Initializing Binance client (testnet)
+2024-01-15 14:35:11 - trading_bot - DEBUG - Fetching account information
+2024-01-15 14:35:12 - trading_bot - INFO - Placing LIMIT SELL order - Symbol: ETHUSDT, Quantity: 0.5, Price: 2500.0
+2024-01-15 14:35:13 - trading_bot - DEBUG - Order parameters: {'symbol': 'ETHUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.5, 'price': 2500.0, 'timeInForce': 'GTC'}
+2024-01-15 14:35:15 - trading_bot - INFO - Order placed successfully: 987654321
+2024-01-15 14:35:15 - trading_bot - INFO - Order ID: 987654321, Status: NEW, Executed Qty: 0.0, Price: 2500.0
